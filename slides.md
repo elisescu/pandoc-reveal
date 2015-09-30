@@ -1,18 +1,19 @@
-% Eating Habits
-% John Doe
-% March 22, 2005
+# Slide Title <!-- common for the following three subslides -->
 
-# In the morning
+## First vertical-subslide
 
-- Eat eggs
-- Drink coffee
+-   point one
+-   point two
+-   point three
 
-# In the evening
+## Second vertical-subslide
 
-- Eat spaghetti
-- Drink wine
+-   point a
+-   point b
+-   point c
 
-# Conclusion
+## First vertical-subslide
 
-- And the answer is...
-- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$    
+-   point foo
+-   point bar
+-   point baz
