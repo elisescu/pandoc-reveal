@@ -14,7 +14,7 @@ git clone https://github.com/elisescu/pandoc-reveal.git my-presentation
 cd my-presentation
 ``` 
 
-* edit your `slides.md` file and:
+* edit your `slides.md` and `vars.yaml` files, and then:
 ```
 make
 open slides.html
