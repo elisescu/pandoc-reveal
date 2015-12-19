@@ -1,19 +1,15 @@
-# Slide Title <!-- common for the following three subslides -->
+# Horizontal slide 1
 
-## First vertical-subslide
+## Vertical-subslide 1
 
 -   point one
 -   point two
 -   point three
 
-## Second vertical-subslide
+## Vertical-subslide 2
 
 -   point a
 -   point b
 -   point c
 
-## First vertical-subslide
-
--   point foo
--   point bar
--   point baz
+# Horizontal slide 2
