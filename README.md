@@ -2,6 +2,9 @@
 
 Small template to write presentation slides in markdown.
 
+## Demo
+[Here] (http://elisescu.github.io/pandoc-reveal/#/) you can see the generated html from the current template.
+
 ## Usage
 
 * install pandoc
